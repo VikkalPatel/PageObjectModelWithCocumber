@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 35.072 s <<< FAILURE! - in com.qa.runner.TestRunner
+Then user enters deal details(| vikpatel | vikpatel |)  Time elapsed: 0.005 s  <<< ERROR!
+org.openqa.selenium.NoSuchFrameException: 
+No frame element found by name or id mainpanel
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'C02NM6M9G3QD', ip: '10.2.82.66', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.6', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+
+| vikpatel | vikpatel |  Time elapsed: 0.006 s  <<< ERROR!
+org.openqa.selenium.NoSuchFrameException: 
+No frame element found by name or id mainpanel
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'C02NM6M9G3QD', ip: '10.2.82.66', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.11.6', java.version: '1.8.0_66'
+Driver info: driver.version: unknown
+

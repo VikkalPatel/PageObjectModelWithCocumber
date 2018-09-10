@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="4" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0">
+<testcase classname="Deal data creation" name="Free CRM Create a new deal scenario" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given user is already on Login Page.........................................undefined
+When title of login page is Free CRM........................................undefined
+Then user enters username and password......................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Test Tagged Hooks" name="This is First test" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given this is the first step................................................undefined
+When this is the second step................................................undefined
+Then this is the third step.................................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Test Tagged Hooks" name="This is Second test" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given this is the first step................................................undefined
+When this is the second step................................................undefined
+Then this is the third step.................................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Test Tagged Hooks" name="This is Third test" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Given this is the first step................................................undefined
+When this is the second step................................................undefined
+Then this is the third step.................................................undefined
+]]></failure>
+</testcase>
+</testsuite>
